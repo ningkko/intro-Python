@@ -1,0 +1,12 @@
+nouns sandwich pickle horse boy flower truck cyborg cat mole dolphin tree house chair AI code
+infinitivetransitives touch like ponder want kiss understand prefer love smash watch break
+transitives touched liked pondered wanted kissed understood preferred loved smashed watched broke
+infinitiveintransitives arrive lie sneeze sit dance smile
+intransitives arrived lied sneezed sat danced smiled
+dets the a every this that
+adjs fine delicious perplexed glorious decorated exaggerated bored giant fake
+preps with on under in behind without near
+advs never always coyly merrily obnoxiously jealously flatulently enchantedly 
+pronounce he she people others it
+questions did could would 
+time when after before 
